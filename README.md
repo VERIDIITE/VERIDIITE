@@ -14,11 +14,11 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Software Engineer with a focus on C#.NET
-- 🔭 I’m currently working on C#.NET development and backend systems
-- 🌱 I’m currently learning Data Engineering
-- 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2025 Goals: Master C#.NET, and DevOps. 
+- 🎓 I'm a Software Engineer with a focus on App and C#.NET Development.
+- 🔭 I’m currently working on UX/UI development with React and Blazor.
+- 🌱 I’m currently learning Cloud Engineering. 
+- 👯 I’m looking to collaborate with open source enthusiasts. 
+- 🥅 2025 Goals: Azure Cloud and DevOps. 
 
 <br>
 
