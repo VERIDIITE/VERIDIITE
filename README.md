@@ -14,11 +14,11 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Software Engineer with a focus on App and C#.NET Development.
-- 🔭 I’m currently working on UX/UI development with React and Blazor.
+- 🎓 I'm a Software Engineer with a focus on React and C#.NET Development.
+- 🔭 I’m currently working on UX/UI development with React and Vue.js.
 - 🌱 I’m currently learning Cloud Engineering. 
 - 👯 I’m looking to collaborate with open source enthusiasts. 
-- 🥅 2025 Goals: Azure Cloud and DevOps. 
+- 🥅 2025 Goals: Vue, Azure Cloud and DevOps. 
 
 <br>
 
