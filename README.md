@@ -14,8 +14,8 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Software Engineer with a focus on React, Next.js, and TailwindCSS.
-- 🔭 I’m currently working on UX/UI development with React and Next.js. 
+- 🎓 I'm a Software Engineer with a focus on React and Next.js.
+- 🔭 I’m currently working on UX/UI development with React, Next.js and TailwindCSS. 
 - 🌱 I’m currently Learning Cloud Engineering. 
 - 🥅 2025 Goals: Azure Cloud and DevOps. 
 
