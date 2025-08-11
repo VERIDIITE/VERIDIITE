@@ -14,10 +14,10 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Software Engineer with a focus on React and Next.js.
+- 🎓 I’m a Full Stack Engineer with expertise in Software & IT Solutions
 - 🔭 I’m currently working on UX/UI development with React, Next.js and TailwindCSS. 
-- 🌱 I’m currently Learning Cloud Engineering. 
-- 🥅 2025 Goals: Azure Cloud and DevOps. 
+- 🌱 I’m currently learning Cloud Engineering and expanding my skills in IT infrastructure. 
+- 🥅 2025 Goals: Achieve certifications in Azure Cloud and advance in DevOps. 
 
 <br>
 
